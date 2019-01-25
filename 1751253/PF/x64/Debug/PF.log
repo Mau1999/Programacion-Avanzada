@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\github\ejemplo\ejemplo\pf\source.cpp(66): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+  PF.vcxproj -> E:\GitHub\ejemplo\ejemplo\x64\Debug\PF.exe
